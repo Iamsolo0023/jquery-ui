@@ -42,7 +42,7 @@
 		"grunt-sass": "^3.1.0",
 		"load-grunt-tasks": "5.1.0",
 		"minimatch": "^3.0.2",
-		"node-sass": "^5.0.0",
+		"node-sass": "^8.0.0",
 		"rimraf": "3.0.2",
 		"testswarm": "1.1.2",
 		"utf-8-validate": "^5.0.3"
