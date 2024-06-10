@@ -16,6 +16,7 @@ Jörn Zaefferer <joern.zaefferer@gmail.com>
 Marc Grabanski <m@marcgrabanski.com>
 Keith Wood <kbwood@iinet.com.au>
 Brandon Aaron <brandon.aaron@gmail.com>
+Shaswat Sinha <hopesalive0023@gmail.com>
 Scott González <scott.gonzalez@gmail.com>
 Eduardo Lundgren <eduardolundgren@gmail.com>
 Aaron Eisenberger <aaronchi@gmail.com>
